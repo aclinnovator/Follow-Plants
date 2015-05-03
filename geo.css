@@ -1,0 +1,19 @@
+#head-text{
+	font-size:3em;
+	color: #ECECEC;
+	text-align: center;
+	font-family:"Helvetica";
+}
+
+#head {
+	background-color:#2ECC71;
+	height:auto;
+	text-align: center;
+	padding:20px;
+}
+
+#geo {
+	width:100%;
+	height:70%;
+	margin:auto;
+}
